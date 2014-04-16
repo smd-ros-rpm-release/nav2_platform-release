@@ -1,0 +1,29 @@
+ros-hydro-nav2-navigation (0.0.4-0precise) precise; urgency=high
+
+  * fix dependencies
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-navigation (0.0.3-0precise) precise; urgency=high
+
+
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-navigation (0.0.2-0precise) precise; urgency=high
+
+
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-navigation (0.0.1-0precise) precise; urgency=high
+
+  * refactor launch structure
+  * fix dependencies
+  * initial commit for support packages
+  * Contributors: Paul Bovbel, agentx3r
+
+ -- Paul Bovbel <paul@bovbel.com>  Tue, 15 Apr 2014 04:00:00 -0000
+
+
