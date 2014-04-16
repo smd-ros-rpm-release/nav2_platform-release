@@ -1,0 +1,34 @@
+ros-hydro-nav2-driver (0.0.4-0precise) precise; urgency=high
+
+
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.3-0precise) precise; urgency=high
+
+  * update cmakelists
+  * embed library nav2remote directly
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.2-0precise) precise; urgency=high
+
+  * readd submodule
+  * fix build
+  * remove submodule
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.1-0precise) precise; urgency=high
+
+  * fix dependencies
+  * update documentation
+  * add nav2remote module
+  * initial dir structure
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Tue, 15 Apr 2014 04:00:00 -0000
+
+
