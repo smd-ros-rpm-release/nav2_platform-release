@@ -1,0 +1,12 @@
+Source: ros-hydro-nav2-platform
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-nav2-platform
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-nav2-bringup, ros-hydro-nav2-driver, ros-hydro-nav2-navigation
+Description: ROS Metapackage containing all nodes, config, and launch files for Nav2 Robot Platform
