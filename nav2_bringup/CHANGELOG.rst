@@ -2,6 +2,11 @@
 Changelog for package nav2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2014-04-17)
+------------------
+* fix dependencies and building
+* Contributors: Paul Bovbel
+
 0.0.4 (2014-04-16)
 ------------------
 * fix dependencies
