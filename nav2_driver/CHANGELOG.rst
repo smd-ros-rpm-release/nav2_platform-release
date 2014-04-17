@@ -2,6 +2,14 @@
 Changelog for package nav2_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2014-04-17)
+------------------
+
+0.0.5 (2014-04-17)
+------------------
+* fix dependencies and building
+* Contributors: Paul Bovbel
+
 0.0.4 (2014-04-16)
 ------------------
 
