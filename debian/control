@@ -1,0 +1,12 @@
+Source: ros-hydro-nav2-bringup
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-nav2-driver, ros-hydro-nav2-navigation
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-nav2-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-depthimage-to-laserscan, ros-hydro-hokuyo-node, ros-hydro-nav2-driver, ros-hydro-nav2-navigation
+Description: ROS launch files for Nav2 Robot Platform bringup
