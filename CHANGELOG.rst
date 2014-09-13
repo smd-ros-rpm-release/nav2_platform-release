@@ -2,6 +2,11 @@
 Changelog for package nav2_platform
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.7 (2014-09-13)
+------------------
+* Update package.xml
+* Contributors: Paul Bovbel
+
 0.0.6 (2014-04-17)
 ------------------
 
