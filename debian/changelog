@@ -1,0 +1,54 @@
+ros-hydro-nav2-driver (0.0.7-0raring) raring; urgency=high
+
+  * Fix retry behaviour
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Sat, 13 Sep 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.6-0raring) raring; urgency=high
+
+
+
+ -- Paul Bovbel <paul@bovbel.com>  Thu, 17 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.5-0raring) raring; urgency=high
+
+  * fix dependencies and building
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Thu, 17 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.4-0raring) raring; urgency=high
+
+
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.3-0raring) raring; urgency=high
+
+  * update cmakelists
+  * embed library nav2remote directly
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.2-0raring) raring; urgency=high
+
+  * readd submodule
+  * fix build
+  * remove submodule
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 16 Apr 2014 04:00:00 -0000
+
+ros-hydro-nav2-driver (0.0.1-0raring) raring; urgency=high
+
+  * fix dependencies
+  * update documentation
+  * add nav2remote module
+  * initial dir structure
+  * Contributors: Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Tue, 15 Apr 2014 04:00:00 -0000
+
+
