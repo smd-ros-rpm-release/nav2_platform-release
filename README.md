@@ -1,3 +1,28 @@
+## nav2_platform (indigo) - 0.0.7-1
+
+The packages in the `nav2_platform` repository were released into the `indigo` distro by running `/usr/bin/bloom-release nav2_platform --track indigo --rosdistro indigo --new-track` on `Sat, 13 Sep 2014 19:56:51 -0000`
+
+These packages were released:
+- `nav2_bringup`
+- `nav2_driver`
+- `nav2_navigation`
+- `nav2_platform`
+
+Version of package(s) in repository `nav2_platform`:
+- upstream repository: https://github.com/paulbovbel/nav2_platform.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.7-0`
+- new version: `0.0.7-1`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## nav2_platform (indigo) - 0.0.7-0
 
 The packages in the `nav2_platform` repository were released into the `indigo` distro by running `/usr/bin/bloom-release nav2_platform --track indigo --rosdistro indigo --new-track` on `Sat, 13 Sep 2014 19:49:26 -0000`
