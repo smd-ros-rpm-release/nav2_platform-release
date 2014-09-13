@@ -1,0 +1,12 @@
+Source: ros-indigo-nav2-navigation
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-nav2-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-move-base
+Description: ROS navigation config and launch files for Nav2 Robot Platform
