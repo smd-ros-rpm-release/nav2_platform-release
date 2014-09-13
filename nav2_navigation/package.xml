@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>nav2_navigation</name>
+  <version>0.0.7</version>
+  <description>ROS navigation config and launch files for Nav2 Robot Platform</description>
+
+  <maintainer email="paul@bovbel.com">Paul Bovbel</maintainer>
+  <author email="paul@bovbel.com">Paul Bovbel</author>
+
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>move_base</run_depend>
+
+  <export>
+
+  </export>
+</package>
